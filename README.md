@@ -16,17 +16,11 @@ Here are some ideas to get you started:
 -->
 # Desarrollador FullStack
 He realizado los siguientes Cursos:
-#### Curso de Autoedición y Diseño Gráfico
-. C.R.M.F. de Lardero. (850 horas)
-#### Curso de Técnico en Redes e Internet 
-. C.R.M.F. de Lardero. (530 horas)
-#### Curso de Confección y Publicación de Páginas Web 
-. C.R.M.F. de Lardero. (210 horas)
-#### Control de versiones con Gif 
-. Fundación Adecco (30 horas)
-#### Frontend con HTML 5, CSS 3 y JavaScript 
-. Fundación Adecco (30 horas)
-#### Introducción a Java SE 
-. Fundación Adecco (30 horas)
-#### Fundamentos de programación 
-. Fundación Adecco (30 horas)
+#### Curso de Autoedición y Diseño Gráfico . C.R.M.F. de Lardero. (850 horas)
+#### Curso de Técnico en Redes e Internet . C.R.M.F. de Lardero. (530 horas)
+#### Curso de Confección y Publicación de Páginas Web . C.R.M.F. de Lardero. (210 horas) 
+#### Control de versiones con Gif . Fundación Adecco (30 horas)
+#### Frontend con HTML 5, CSS 3 y JavaScript . Fundación Adecco (30 horas) 
+#### Introducción a Java SE . Fundación Adecco (30 horas)
+#### Fundamentos de programación . Fundación Adecco (30 horas) 
+
